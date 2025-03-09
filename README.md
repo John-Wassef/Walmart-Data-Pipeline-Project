@@ -1,4 +1,6 @@
 # Walmart Data Pipeline Project
+![Walmart eCommerce](https://github.com/John-Wassef/Walmart-Data-Pipeline-Project/blob/main/Walmart%20Data%20Pipeline%20Project/walmartecomm.jpg?raw=true)
+
 
 ## 📌 Project Overview  
 This project focuses on cleaning, merging, and analyzing Walmart eCommerce data. The dataset includes aggregated sales data, cleaned customer information, and additional insights stored in CSV and Parquet formats.  
